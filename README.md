@@ -6,7 +6,7 @@ Also make sure you create your own master branch and work on your own branches. 
 
 
 
-#Git Flow
+# Git Flow
 The git flow to be followed is:
 
 1.	git fetch / pull
@@ -31,7 +31,7 @@ This pushes the code to the remote server in the cloud. Until this step, everyth
 7.	Create a pull request on github:
 A pull request to merge the code needs to be create after completing a task. To ensure the quality, there needs to be a minimum of 2 reviewers and only the dev lead should merge the codes.
 
-Best Practices
+# Best Practices
 
 1.	Always pull from either develop or the branch you are in before you start coding.
 2.	Always create a new branch when you are working on a feature. One branch should only contain codes related to one feature.
