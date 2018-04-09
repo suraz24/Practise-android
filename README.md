@@ -24,7 +24,7 @@ The git flow to be followed is:
 
 4.	git add {filename}
        
-       This is to add the files that needs to be committed. If all the changes displayed in the status needs to be added, `git add .`              could be used instead.
+      This is to add the files that needs to be committed. If all the changes displayed in the status needs to be added, `git add .`              could be used instead.
 
 5.	git commit -m {message}
        
