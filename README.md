@@ -2,7 +2,7 @@
 
 This is a repo used as a playground to try out the different frameworks, unit tests frameworks, IDEs, libraries and languages. It is also used to develop the best practices that will be used in the final year project. So, please make sure you follow the best practices listed below.
 
-Also make sure you create your own master branch and work on your own branches. For eg. <Your name>/master and <Your name>/develop
+Also make sure you create your own master branch and work on your own branches. For eg. {Your name}/master and {Your name}/develop
 
 
 
