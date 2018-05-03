@@ -1,4 +1,4 @@
-package com.smartglass.swe.videocapture_test;
+package com.smartglass.swe.t2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.smartglass.swe.videocapture_test", appContext.getPackageName());
+        assertEquals("com.smartglass.swe.t2", appContext.getPackageName());
     }
 }

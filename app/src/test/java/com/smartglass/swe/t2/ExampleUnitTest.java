@@ -1,4 +1,4 @@
-package com.smartglass.swe.videocapture_test;
+package com.smartglass.swe.t2;
 
 import org.junit.Test;
 
